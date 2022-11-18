@@ -1,3 +1,4 @@
+let age = ''
 function checkLanguage (val) {
   if (val === 'English') return true
 }
